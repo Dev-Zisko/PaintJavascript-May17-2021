@@ -1,0 +1,30 @@
+body, div {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #9BD5FF;
+}
+
+h1 {
+	color: #00137F;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+canvas {
+	border: 5px solid #00137F;
+}
+
+.editor {
+	margin: 30px;
+	background: #fff;
+	width: fit-content;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.selectores {
+	background: #191919;
+}
